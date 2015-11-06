@@ -1,0 +1,39 @@
+{
+  "uuid": "019798b0-f1f7-4e43-b4c3-892391790f64",
+  "shortName": "Xadow Strap",
+  "longName": "Xadow Strap",
+  "companyName": "Seeed",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "CONFIRM",
+        "file": "images/confirm.png"
+      },
+      {
+        "type": "png",
+        "name": "CROSS",
+        "file": "images/cross.png"
+      },
+      {
+        "type": "png",
+        "name": "TICK",
+        "file": "images/tick.png"
+      },
+      {
+        "type": "png",
+        "name": "CHARGE",
+        "file": "images/charge.png"
+      }
+    ]
+  }
+}
