@@ -17,3 +17,9 @@
 # Ignore waf lock file
 .lock-waf*
 .DS_Store
+
+# Ignore build generated files
+build
+
+# Ignore Screenshots
+pebble-screenshot_*
